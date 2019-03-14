@@ -1,0 +1,13 @@
+attrib +H "Wi-Fi_Crack.bat"
+attrib +H "Wi-Fi_Crack_Char.chr"
+attrib +H "Wi-Fi_Crack_Close_Window.dll"
+attrib +H "Wi-Fi_Crack_GUI.exe"
+attrib +H "Wi-Fi_Crack_Move_Window.dll"
+attrib +H "Wi-Fi_Crack_Ping_Terminate.bat"
+attrib +H "Wi-Fi_Crack_Ping_Terminate.ini"
+attrib +H "Wi-Fi_Crack_Profile.xml"
+attrib +H "Wi-Fi_Crack_Show_Networks"
+attrib +H "Wi-Fi_Crack_Tool_Window"
+attrib +H "Wi-Fi_Crack_Wait.dll"
+attrib +H "Wi-Fi_Crack_XML_Gen.bat"
+if exist "Wi-Fi_Crack_GUI.exe" (start /WAIT Wi-Fi_Crack_GUI.exe) & exit
