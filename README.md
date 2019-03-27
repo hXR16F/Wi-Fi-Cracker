@@ -15,3 +15,6 @@ For **32-bit** version:
 
 # Tip
 **Slower speed = more chance**, so I recommend you to choose "VERY SLOW" option.
+
+# Screenshot
+![screenshot](https://i.imgur.com/tNwc2WS.png)
